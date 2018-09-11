@@ -1,1 +1,2 @@
 hello world
+루비설치한다.
